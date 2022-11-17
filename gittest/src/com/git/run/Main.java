@@ -10,6 +10,7 @@ public class Main {
 		int b = 20;
 		System.out.println(a + b);
 		
+		
 	
 	}
 
